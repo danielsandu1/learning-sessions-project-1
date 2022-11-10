@@ -1,1 +1,5 @@
 Set ideas here
+
+- We can create a basic TODO app that uses only state to store todos, by generating
+the application, developing web components, adding tests (unit, e2e), building, using
+GitHub actions to manage the code flow and deploy it on S3 under <project-name>.mariusmihai.org subdomain
